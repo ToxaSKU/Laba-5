@@ -10,6 +10,7 @@ namespace Laba__5
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Лабораторная работа №5");
         }
     }
 }
